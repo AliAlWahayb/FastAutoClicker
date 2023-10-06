@@ -1,29 +1,22 @@
 
-![License](https://img.shields.io/badge/License-MIT-blue.svg)
-<<<<<<< HEAD
 # FastAutoClicker
-=======
-# FastAutoClicker
->>>>>>> 1f9ff0f96a7953dd91936bd3aa742a0a2f871b6e
 
-This program is designed to simulate Random numbers keyboard presses. It is primarily intended for randomizing building patterns in Minecraft and sandbox games
+![GitHub](https://img.shields.io/github/license/AliAlWahayb/FastAutoClicker)
 
+FastAutoClicker is an open-source auto clicker tool that allows users to automate clicking actions on their computer.
+
+![Overview](Ignore/FastAutoClicker.jpg)
 
 ## Features
 
-![Overview](ignore/FastAutoClicker.jpg)
+- Configurable click rate and interval.
+- Simple and intuitive user interface.
+- Lightweight and easy to use.
 
-- Random Number Generation: The program provides a reliable random number generation algorithm to generate random numbers within a specified range.
-- Keyboard Press Simulation: You can simulate keyboard presses in Minecraft or other sandbox games. This feature allows you to easily randomize building patterns by automatically pressing keys.
-- Customizable Delay: You can set a customizable delay between each keyboard press to control the speed and timing of the building pattern randomization.
-- Configurable Keybindings: You can easily configure and customize the keybindings for specific actions, giving you flexibility and control over the simulated keyboard inputs.
 
 ## Download
-<<<<<<< HEAD
-Download the latest version from the [releases](https://raw.githubusercontent.com/AliAlWahayb/Number-Randomizer/main/NumberRandomizer.exe) page.
-=======
-Download the latest version from the [releases](https://raw.githubusercontent.com/AliAlWahayb/Number-Randomizer/main/NumberRandomizer.exe).
->>>>>>> 1f9ff0f96a7953dd91936bd3aa742a0a2f871b6e
+
+Download the latest version from the [releases](https://github.com/AliAlWahayb/FastAutoClicker/releases).
 
 
 ## Contributing
