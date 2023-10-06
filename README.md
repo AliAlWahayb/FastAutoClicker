@@ -3,7 +3,6 @@
 
 ![GitHub](https://img.shields.io/github/license/AliAlWahayb/FastAutoClicker)
 
-FastAutoClicker is an open-source auto clicker tool that allows users to automate clicking actions on their computer.
 
 ![Overview](Ignore/FastAutoClicker.jpg)
 
